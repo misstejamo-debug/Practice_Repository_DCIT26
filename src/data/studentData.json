@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "name" : "Jessa",
+        "studentNumber": "S01234",
+        "course" : "BSIT",
+        "section" : "3-7",
+        "email" : "jissa@example.com"
+    },
+    {
+        "id" : 2,
+        "name" : "Hailey",
+        "studentNumber": "S033224",
+        "course" : "BSEM",
+        "section" : "3-2",
+        "email" : "hailey@example.com"
+    },
+    {
+        "id" : 3,
+        "name" : "Ashley",
+        "studentNumber": "S0155554",
+        "course" : "BSED",
+        "section" : "3-4",
+        "email" : "ashley@example.com"
+    },
+    {
+        "id" : 4,
+        "name" : "Luke",
+        "studentNumber": "S0532526",
+        "course" : "BSCS",
+        "section" : "3-9",
+        "email" : "luke@example.com"
+    },
+    {
+        "id" : 5,
+        "name" : "Kalix",
+        "studentNumber": "S0324543",
+        "course" : "BSBA",
+        "section" : "3-1",
+        "email" : "kalix@example.com"
+    }
+]
